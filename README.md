@@ -4,7 +4,7 @@ Senior Capstone Project - IT Consulting Simulation
 ## Overview
 Our team served as IT consultants tasked with designing a complete enterprise IT infrastructure for the new, 100-employee, corporate office of Geezertown Investments, a fictitious company focused on personalized retirement planning for senior clients. 
 
-Across 5 milestone reports, we designed the main office’s LAN and VoIP system, specified enterprise-grade hardware and software for 100 employees, and developed backup, redundancy, and continuity plans to support secure, scalable business operations.
+Across 5 milestone reports, we designed the main office’s **LAN and VoIP system**, specified **enterprise-grade hardware and software** for 100 employees, and developed **backup, redundancy, and continuity plans** to support secure, scalable business operations.
 
 
 ## Technical Scope & Applied Concepts
