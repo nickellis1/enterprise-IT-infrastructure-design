@@ -19,10 +19,6 @@ Across 5 milestone reports, we designed the main office’s **LAN and VoIP syste
 
 ## Milestone Report Breakdown
 
-### Milestone 0 – Project Planning & Team Coordination
--	Defined team roles and responsibilities
--	Set expectations for deliverables and timelines
--	Established plans for weekly synchronous meetings and asynchronous communication
 ### Milestone 1 – Business Analysis and Risk Assessment
 -	Established business operations and technical requirements
 -	Documented assumptions and project scope
@@ -40,7 +36,6 @@ Across 5 milestone reports, we designed the main office’s **LAN and VoIP syste
 -	Specified off-site storage for data archives
 -	Planned redundancy measures including UPS systems and generator support
 ## Personal Contributions
--	Milestone 0: Authored the full project planning deliverable; defined team roles, communication plans, and timelines.
 -	Milestone 1: Defined assumptions and summarized business and technical requirements to guide design of the IT infrastructure; aided in identifying key stakeholders and potential contingencies.
 -	Milestone 2: Selected key hardware and software components for the LAN and VoIP system, ensuring scalability and reliability. Compiled technical documentation for selected components.
 -	Milestone 3: Led the selection and documentation of employee hardware and software, ensuring security and compatibility with LAN and VoIP systems.
